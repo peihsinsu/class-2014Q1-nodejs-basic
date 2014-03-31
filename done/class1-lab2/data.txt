@@ -1,0 +1,4 @@
+Passport-Google-OAuth
+Passport strategies for authenticating with Google using OAuth 1.0a and OAuth 2.0.
+
+This module lets you authenticate using Google in your Node.js applications. By plugging into Passport, Google authentication can be easily and unobtrusively integrated into any application or framework that supports Connect-style middleware, including Express.
